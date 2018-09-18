@@ -1,0 +1,40 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        3d2b6f99 mac.jacwang.aurora20150610/.welcome
+
+Key Set Manager:
+  [mac.jacwang.aurora20150610]
+      Signing KeySets: 3659
+
+Packages:
+  Package [mac.jacwang.aurora20150610] (ba83d24):
+    userId=10413 gids=[3003, 1028, 1015]
+    pkg=Package{30d5525e mac.jacwang.aurora20150610}
+    codePath=/data/app/mac.jacwang.aurora20150610-2
+    resourcePath=/data/app/mac.jacwang.aurora20150610-2
+    legacyNativeLibraryDir=/data/app/mac.jacwang.aurora20150610-2/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=2015101102 targetSdk=22
+    versionName=2.0.05
+    splits=[base]
+    applicationInfo=ApplicationInfo{1ca0e63f mac.jacwang.aurora20150610}
+    flags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+    dataDir=/data/data/mac.jacwang.aurora20150610
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2015-10-17 22:10:15
+    firstInstallTime=2015-10-11 16:25:07
+    lastUpdateTime=2015-10-17 22:10:16
+    signatures=PackageSignatures{c71d253 [a636b0c]}
+    permissionsFixed=true haveGids=true installStatus=1
+    pkgFlags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+    User 0:  installed=true hidden=false stopped=false notLaunched=false enabled=0
+    grantedPermissions:
+      android.permission.ACCESS_FINE_LOCATION
+      android.permission.SYSTEM_ALERT_WINDOW
+      android.permission.INTERNET
+      android.permission.READ_EXTERNAL_STORAGE
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.CALL_PHONE
+      android.permission.WRITE_EXTERNAL_STORAGE

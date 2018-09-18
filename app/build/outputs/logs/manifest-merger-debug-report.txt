@@ -1,0 +1,179 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:2:1-92:12
+	package
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:5:5-41
+		INJECTED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:4:5-51
+	xmlns:android
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:3:5-63
+	android:versionCode
+		INJECTED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:8:5-36
+MERGED from [com.android.support:multidex:1.0.1] D:\GoogleDrive\Android\Aurora20150610\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:22.0.0] D:\GoogleDrive\Android\Aurora20150610\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] D:\GoogleDrive\Android\Aurora20150610\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] D:\GoogleDrive\Android\Aurora20150610\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:gridlayout-v7:22.0.0] D:\GoogleDrive\Android\Aurora20150610\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] D:\GoogleDrive\Android\Aurora20150610\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:22.2.0] D:\GoogleDrive\Android\Aurora20150610\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] D:\GoogleDrive\Android\Aurora20150610\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:22.2.0] D:\GoogleDrive\Android\Aurora20150610\app\build\intermediates\exploded-aar\com.android.support\palette-v7\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] D:\GoogleDrive\Android\Aurora20150610\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+	tools:node
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:8:15-33
+	android:targetSdkVersion
+		INJECTED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:10:22-66
+uses-permission#android.permission.INTERNET
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:17:5-78
+	android:name
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:17:22-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:20:22-77
+application
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:24:5-90:19
+MERGED from [com.android.support:appcompat-v7:22.0.0] D:\GoogleDrive\Android\Aurora20150610\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] D:\GoogleDrive\Android\Aurora20150610\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] D:\GoogleDrive\Android\Aurora20150610\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:gridlayout-v7:22.0.0] D:\GoogleDrive\Android\Aurora20150610\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] D:\GoogleDrive\Android\Aurora20150610\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] D:\GoogleDrive\Android\Aurora20150610\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:22.2.0] D:\GoogleDrive\Android\Aurora20150610\app\build\intermediates\exploded-aar\com.android.support\palette-v7\22.2.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\GoogleDrive\Android\Aurora20150610\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:27:9-41
+	android:allowBackup
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:25:9-35
+	android:icon
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:26:9-43
+	android:largeHeap
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:29:9-33
+	android:theme
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:28:9-40
+activity#mac.jacwang.aurora20150610.welcome
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:30:9-37:20
+	android:label
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:31:13-36
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:35:27-74
+activity#mac.jacwang.aurora20150610.MainActivity
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:38:9-41:20
+	android:label
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:39:13-41
+activity#mac.jacwang.aurora20150610.menu
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:42:9-45:20
+	android:label
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:44:13-45
+	android:name
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:43:13-33
+activity#mac.jacwang.aurora20150610.memberJoin
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:46:9-49:20
+	android:label
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:48:13-45
+	android:name
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:47:13-39
+activity#mac.jacwang.aurora20150610.memberJoinSuccess
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:50:9-53:20
+	android:label
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:52:13-45
+	android:name
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:51:13-46
+activity#mac.jacwang.aurora20150610.memberShip
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:54:9-57:20
+	android:label
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:56:13-45
+	android:name
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:55:13-39
+activity#mac.jacwang.aurora20150610.myFavorite
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:58:9-61:20
+	android:label
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:60:13-45
+	android:name
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:59:13-39
+activity#mac.jacwang.aurora20150610.promote_list
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:62:9-65:20
+	android:label
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:64:13-45
+	android:name
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:63:13-41
+activity#mac.jacwang.aurora20150610.recommendStore
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:66:9-69:20
+	android:label
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:68:13-45
+	android:name
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:67:13-43
+activity#mac.jacwang.aurora20150610.recommendStoreSuccess
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:70:9-73:20
+	android:label
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:72:13-45
+	android:name
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:71:13-50
+activity#mac.jacwang.aurora20150610.store_search_category
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:74:9-77:20
+	android:label
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:76:13-45
+	android:name
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:75:13-50
+activity#mac.jacwang.aurora20150610.store_search_list
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:78:9-81:20
+	android:label
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:80:13-45
+	android:name
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:79:13-46
+activity#mac.jacwang.aurora20150610.store_info
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:82:9-85:20
+	android:label
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:84:13-45
+	android:name
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:83:13-39
+activity#mac.jacwang.aurora20150610.web_img
+ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:86:9-89:20
+	android:label
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:88:13-45
+	android:name
+		ADDED from D:\GoogleDrive\Android\Aurora20150610\app\src\main\AndroidManifest.xml:87:13-36

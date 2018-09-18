@@ -1,0 +1,289 @@
+TASK mac.jacwang.aurora20150610 id=11072
+  ACTIVITY mac.jacwang.aurora20150610/.store_search_list ae6d276 pid=16535
+    Local FragmentActivity 3ddc7dad State:
+      mCreated=truemResumed=false mStopped=true mReallyStopped=true
+      mLoadersStarted=false
+    Active Fragments in 385fb473:
+      #0: nearbySearch{2dad0f30 #0 1}
+        mFragmentId=#0 mContainerId=#0 mTag=1
+        mState=2 mIndex=0 mWho=android:fragment:0 mBackStackNesting=0
+        mAdded=true mRemoving=false mResumed=false mFromLayout=false mInLayout=false
+        mHidden=false mDetached=false mMenuVisible=true mHasMenu=false
+        mRetainInstance=false mRetaining=false mUserVisibleHint=true
+        mFragmentManager=FragmentManager{385fb473 in store_search_list{3ddc7dad}}
+        mActivity=mac.jacwang.aurora20150610.store_search_list@3ddc7dad
+        mSavedViewState={2131492988=android.support.v7.widget.RecyclerView$SavedState@1c7047a9}
+        mView=android.widget.RelativeLayout{275a312e V.E..... ......I. 0,0-0,0}
+        mInnerView=android.widget.RelativeLayout{275a312e V.E..... ......I. 0,0-0,0}
+        Child FragmentManager{33f724cf in nearbySearch{2dad0f30}}:
+          FragmentManager misc state:
+            mActivity=mac.jacwang.aurora20150610.store_search_list@3ddc7dad
+            mContainer=android.support.v4.app.Fragment$1@348bee5c
+            mParent=nearbySearch{2dad0f30 #0 1}
+            mCurState=2 mStateSaved=true mDestroyed=false
+      #1: nearbySearch{395cb565 #1 id=0x7f0c0097}
+        mFragmentId=#7f0c0097 mContainerId=#7f0c0097 mTag=null
+        mState=2 mIndex=1 mWho=android:fragment:1 mBackStackNesting=0
+        mAdded=true mRemoving=false mResumed=false mFromLayout=false mInLayout=false
+        mHidden=false mDetached=false mMenuVisible=true mHasMenu=false
+        mRetainInstance=false mRetaining=false mUserVisibleHint=true
+        mFragmentManager=FragmentManager{385fb473 in store_search_list{3ddc7dad}}
+        mActivity=mac.jacwang.aurora20150610.store_search_list@3ddc7dad
+        mSavedViewState={2131492988=android.support.v7.widget.RecyclerView$SavedState@1cdc323a}
+        mContainer=android.support.v4.view.ViewPager{94aeec1 VFED.... ........ 45,390-1035,1383 #7f0c0097 app:id/my_pager}
+        mView=android.widget.RelativeLayout{325feb98 V.E..... ........ 0,0-990,993}
+        mInnerView=android.widget.RelativeLayout{325feb98 V.E..... ........ 0,0-990,993}
+        Child FragmentManager{33eb3eeb in nearbySearch{395cb565}}:
+          FragmentManager misc state:
+            mActivity=mac.jacwang.aurora20150610.store_search_list@3ddc7dad
+            mContainer=android.support.v4.app.Fragment$1@1d179448
+            mParent=nearbySearch{395cb565 #1 id=0x7f0c0097}
+            mCurState=2 mStateSaved=true mDestroyed=false
+      #2: manuallySearch{9e842e1 #2 id=0x7f0c0097}
+        mFragmentId=#7f0c0097 mContainerId=#7f0c0097 mTag=null
+        mState=2 mIndex=2 mWho=android:fragment:2 mBackStackNesting=0
+        mAdded=true mRemoving=false mResumed=false mFromLayout=false mInLayout=false
+        mHidden=false mDetached=false mMenuVisible=false mHasMenu=false
+        mRetainInstance=false mRetaining=false mUserVisibleHint=false
+        mFragmentManager=FragmentManager{385fb473 in store_search_list{3ddc7dad}}
+        mActivity=mac.jacwang.aurora20150610.store_search_list@3ddc7dad
+        mSavedViewState={2131492868=android.view.AbsSavedState$1@174b3806, 2131492963=android.view.AbsSavedState$1@174b3806, 2131492964=AbsSpinner.SavedState{30bcdec7 selectedId=0 position=0}, 2131492965=AbsSpinner.SavedState{2135acf4 selectedId=0 position=0}, 2131492966=AbsSpinner.SavedState{37452c1d selectedId=0 position=0}, 2131492967=android.view.AbsSavedState$1@174b3806}
+        mContainer=android.support.v4.view.ViewPager{94aeec1 VFED.... ........ 45,390-1035,1383 #7f0c0097 app:id/my_pager}
+        mView=android.widget.FrameLayout{371d27d6 V.E..... ........ 990,0-1980,993 #7f0c0004 app:id/fragment_container}
+        mInnerView=android.widget.FrameLayout{371d27d6 V.E..... ........ 990,0-1980,993 #7f0c0004 app:id/fragment_container}
+        Child FragmentManager{1752ce92 in manuallySearch{9e842e1}}:
+          FragmentManager misc state:
+            mActivity=mac.jacwang.aurora20150610.store_search_list@3ddc7dad
+            mContainer=android.support.v4.app.Fragment$1@1ea063
+            mParent=manuallySearch{9e842e1 #2 id=0x7f0c0097}
+            mCurState=2 mStateSaved=true mDestroyed=false
+    Added Fragments:
+      #0: nearbySearch{2dad0f30 #0 1}
+      #1: nearbySearch{395cb565 #1 id=0x7f0c0097}
+      #2: manuallySearch{9e842e1 #2 id=0x7f0c0097}
+    FragmentManager misc state:
+      mActivity=mac.jacwang.aurora20150610.store_search_list@3ddc7dad
+      mContainer=android.support.v4.app.FragmentActivity$2@117aa460
+      mCurState=2 mStateSaved=true mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{2be26345 I.E..... ... 0,0-1080,1920}
+        android.widget.LinearLayout{1f184fcb V.E..... ... 0,0-1080,1776}
+          android.view.ViewStub{118d6d19 G.E..... ... 0,0-0,0 #102038c}
+          android.widget.FrameLayout{400ed43 V.E..... ... 0,75-1080,1776}
+            android.support.v7.internal.widget.ActionBarOverlayLayout{2a0cc2f2 V.E..... ... 0,0-1080,1701 #7f0c0042 app:id/decor_content_parent}
+              android.support.v7.internal.widget.NativeActionModeAwareLayout{2756b5fd V.E..... ... 0,168-1080,1701 #1020002 android:id/content}
+                android.widget.RelativeLayout{1491b254 V.E..... ... 0,0-1080,1533}
+                  android.widget.RelativeLayout{3732919e V.E..... ... 0,1383-1080,1533 #7f0c0056 app:id/footer}
+                    android.widget.LinearLayout{271a547f V.E..... ... 0,0-495,150}
+                      android.widget.ImageButton{52edc4c VFED..C. ... 30,15-165,150 #7f0c0057 app:id/little_btn_member_ship}
+                      android.widget.ImageButton{2adb2495 VFED..C. ... 195,15-330,150 #7f0c0058 app:id/little_btn_favorite}
+                      android.widget.ImageButton{24b229aa VFED..C. ... 360,15-495,150 #7f0c0059 app:id/little_btn_promote}
+                    android.widget.LinearLayout{c09b99b V.E..... ... 585,0-1080,150}
+                      android.widget.ImageButton{3f937138 VFED..C. ... 0,15-135,150 #7f0c005a app:id/little_btn_share}
+                      android.widget.ImageButton{7967511 VFED..C. ... 165,15-300,150 #7f0c005b app:id/little_btn_service}
+                      android.widget.ImageButton{2ee13676 VFED..C. ... 330,15-465,150 #7f0c005c app:id/little_btn_info}
+                  android.widget.RelativeLayout{f5a1da7 V.E..... ... 0,0-1080,1383 #7f0c005d app:id/content}
+                    android.widget.LinearLayout{33eca666 V.E..... ... 0,0-1080,1383}
+                      android.widget.TextView{29c05477 V.ED.... ... 0,0-1080,75 #7f0c0085 app:id/address}
+                      android.support.v7.widget.RecyclerView{2baa68e4 VFEDH... F.. 0,75-1080,270 #7f0c0095 app:id/catesub_recycler}
+                        android.widget.LinearLayout{34172f50 V.E...C. ... 3,-10-255,182}
+                          android.widget.ImageView{28224402 V.ED.... ... 6,6-246,186 #7f0c0036 app:id/image}
+                        android.widget.LinearLayout{2dcf5d05 V.E...C. ... 243,-10-495,182}
+                          android.widget.ImageView{1c375b6f V.ED.... ... 6,6-246,186 #7f0c0036 app:id/image}
+                        android.widget.LinearLayout{3e619868 V.E...C. ... 483,-10-735,182}
+                          android.widget.ImageView{2680515a V.ED.... ... 6,6-246,186 #7f0c0036 app:id/image}
+                        android.widget.LinearLayout{18b94967 V.E...C. ... 723,-10-975,182}
+                          android.widget.ImageView{146dc481 V.ED.... ... 6,6-246,186 #7f0c0036 app:id/image}
+                        android.widget.LinearLayout{b37b1b2 V.E...C. ... 963,-10-1215,182}
+                          android.widget.ImageView{27ebd314 V.ED.... ... 6,6-246,186 #7f0c0036 app:id/image}
+                      android.support.v4.app.FragmentTabHost{20871503 VFE..... ... 45,270-1035,390 #7f0c0096 app:id/my_tab}
+                        android.widget.LinearLayout{53d0c80 V.E..... ... 0,0-990,120}
+                          android.widget.TabWidget{3fcd82b9 VFED.... ... 0,0-990,120 #1020013 android:id/tabs}
+                            android.widget.LinearLayout{1c6b36fe VFE...C. .S. 0,-24-494,144}
+                              android.widget.ImageView{acb41de G.ED.... .S. 0,0-0,0 #1020006 android:id/icon}
+                              android.widget.TextView{adbfe5f V.ED.... .S. 151,51-343,116 #1020016 android:id/title}
+                            android.widget.LinearLayout{3a670ac VFE...C. ... 496,-24-990,144}
+                              android.widget.ImageView{1650dfbf G.ED.... ... 0,0-0,0 #1020006 android:id/icon}
+                              android.widget.TextView{153a9175 V.ED.... ... 151,51-343,116 #1020016 android:id/title}
+                          android.widget.FrameLayout{17bfc50a V.E..... ... 0,120-0,120 #1020011 android:id/tabcontent}
+                            android.view.View{3155a68c V.ED.... ... 0,0-0,0}
+                          android.widget.FrameLayout{3a6c217b V.E..... ... 0,120-990,120 #0}
+                      android.support.v4.view.ViewPager{94aeec1 VFED.... ... 45,390-1035,1383 #7f0c0097 app:id/my_pager}
+                        android.widget.RelativeLayout{325feb98 V.E..... ... 0,0-990,993}
+                          android.support.v7.widget.RecyclerView{3c2fcff1 VFED.V.. ... 0,0-990,993 #7f0c007c app:id/recycler_view}
+                            android.widget.RelativeLayout{1786be6 V.E...C. ... 0,10-990,211}
+                              android.widget.ImageView{2fb4ac10 V.ED.... ... 15,15-150,150 #7f0c0091 app:id/brand_logo}
+                              android.widget.ImageView{1698490e V.ED.... ... 15,156-165,186 #7f0c0087 app:id/level}
+                              android.widget.ImageView{2b0a3527 V.ED.... ... 870,30-960,120 #7f0c0092 app:id/special_price}
+                              android.widget.TextView{32b4b3d4 V.ED.... ... 180,15-855,76 #7f0c008a app:id/brand_name}
+                              android.widget.TextView{fb3597d V.ED.... ... 180,76-855,133 #7f0c0093 app:id/subname}
+                              android.widget.TextView{84f6072 V.ED.... ... 180,133-855,182 #7f0c0085 app:id/address}
+                              android.widget.LinearLayout{35afcc3 V.E..... ... 842,133-975,186}
+                                android.widget.TextView{28933940 V.ED.... ... 0,0-99,53 #7f0c0089 app:id/distance_val}
+                                android.widget.TextView{29a11079 V.ED.... ... 99,0-133,53 #7f0c0088 app:id/distance_unit}
+                            android.widget.RelativeLayout{24b29bed V.E...C. ... 0,231-990,432}
+                              android.widget.ImageView{22193b35 V.ED.... ... 15,15-150,150 #7f0c0091 app:id/brand_logo}
+                              android.widget.ImageView{34c68bca V.ED.... ... 15,156-165,186 #7f0c0087 app:id/level}
+                              android.widget.ImageView{11dcca22 V.ED.... ... 870,30-960,120 #7f0c0092 app:id/special_price}
+                              android.widget.TextView{18e49cb3 V.ED.... ... 180,15-855,76 #7f0c008a app:id/brand_name}
+                              android.widget.TextView{26877270 V.ED.... ... 180,76-855,133 #7f0c0093 app:id/subname}
+                              android.widget.TextView{1f2a09e9 V.ED.... ... 180,133-855,182 #7f0c0085 app:id/address}
+                              android.widget.LinearLayout{2721666e V.E..... ... 865,133-975,186}
+                                android.widget.TextView{3d82510f V.ED.... ... 0,0-55,53 #7f0c0089 app:id/distance_val}
+                                android.widget.TextView{25c9459c V.ED.... ... 55,0-110,53 #7f0c0088 app:id/distance_unit}
+                            android.widget.RelativeLayout{21374dcc V.E...C. ... 0,452-990,653}
+                              android.widget.ImageView{3b5eac34 V.ED.... ... 15,15-150,150 #7f0c0091 app:id/brand_logo}
+                              android.widget.ImageView{22fffd2 V.ED.... ... 15,156-165,186 #7f0c0087 app:id/level}
+                              android.widget.ImageView{36087815 V.ED.... ... 870,30-960,120 #7f0c0092 app:id/special_price}
+                              android.widget.TextView{b6fb72a V.ED.... ... 180,15-855,76 #7f0c008a app:id/brand_name}
+                              android.widget.TextView{3cdbf91b V.ED.... ... 180,76-855,133 #7f0c0093 app:id/subname}
+                              android.widget.TextView{35717ab8 V.ED.... ... 180,133-855,182 #7f0c0085 app:id/address}
+                              android.widget.LinearLayout{37058091 V.E..... ... 865,133-975,186}
+                                android.widget.TextView{1baa1bf6 V.ED.... ... 0,0-55,53 #7f0c0089 app:id/distance_val}
+                                android.widget.TextView{32370bf7 V.ED.... ... 55,0-110,53 #7f0c0088 app:id/distance_unit}
+                            android.widget.LinearLayout{2bfeb0c9 V.E...C. ... 0,673-990,853}
+                              android.widget.ImageView{24c67093 V.ED.... ... 0,0-990,180 #7f0c0036 app:id/image}
+                            android.widget.RelativeLayout{2e0ce0e7 V.E...C. ... 0,873-990,1074}
+                              android.widget.ImageView{1e0fc1fc V.ED.... ... 15,15-150,150 #7f0c0091 app:id/brand_logo}
+                              android.widget.ImageView{1eb89085 V.ED.... ... 15,156-165,186 #7f0c0087 app:id/level}
+                              android.widget.ImageView{21ac5494 V.ED.... ... 870,30-960,120 #7f0c0092 app:id/special_price}
+                              android.widget.TextView{169d4b3d V.ED.... ... 180,15-855,76 #7f0c008a app:id/brand_name}
+                              android.widget.TextView{3c13cf32 V.ED.... ... 180,76-855,133 #7f0c0093 app:id/subname}
+                              android.widget.TextView{103ca483 V.ED.... ... 180,133-855,182 #7f0c0085 app:id/address}
+                              android.widget.LinearLayout{24442600 V.E..... ... 865,133-975,186}
+                                android.widget.TextView{18985e39 V.ED.... ... 0,0-55,53 #7f0c0089 app:id/distance_val}
+                                android.widget.TextView{3eabac7e V.ED.... ... 55,0-110,53 #7f0c0088 app:id/distance_unit}
+                        android.widget.FrameLayout{371d27d6 V.E..... ... 990,0-1980,993 #7f0c0004 app:id/fragment_container}
+                          android.widget.LinearLayout{3f115a57 V.E..... ... 0,0-990,993}
+                            android.widget.LinearLayout{1a342944 V.E..... ... 0,0-990,180 #7f0c0063 app:id/container}
+                              android.widget.ImageView{3b607a2d V.ED.... ... 0,0-360,180}
+                              android.widget.Spinner{191beb62 VFED..C. ... 360,0-990,180 #7f0c0064 app:id/city_spinner}
+                                android.widget.TextView{367ec1d5 V.ED.... ... 0,57-582,122 #1020014 android:id/text1}
+                            android.widget.LinearLayout{226744f3 V.E..... ... 0,180-990,360}
+                              android.widget.ImageView{23ec95b0 V.ED.... ... 0,0-360,180}
+                              android.widget.Spinner{17778c29 VFED..C. ... 360,0-990,180 #7f0c0065 app:id/dist_spinner}
+                                android.widget.TextView{12c59dea V.ED.... ... 0,57-582,122 #1020014 android:id/text1}
+                            android.widget.LinearLayout{3b515bae V.E..... ... 0,360-990,540}
+                              android.widget.ImageView{22273d4f V.ED.... ... 0,0-360,180}
+                              android.widget.Spinner{397d5cdc VFED..C. ... 360,0-990,180 #7f0c0066 app:id/brand_spinner}
+                                android.widget.TextView{13db8db V.ED.... ... 0,57-582,122 #1020014 android:id/text1}
+                            android.widget.ImageButton{1ad3c1e5 VFED..C. ... 345,540-645,840 #7f0c0067 app:id/enter_btn}
+              android.support.v7.internal.widget.ActionBarContainer{d5b84ba V.ED.... ... 0,0-1080,168 #7f0c0043 app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{34445f6b V.E..... ... 0,0-1080,168 #7f0c0044 app:id/action_bar}
+                  android.widget.LinearLayout{df16ac8 V.E..... ... 48,24-936,144}
+                    android.widget.ImageButton{1d039761 VFED..C. ... 0,0-120,120 #7f0c0052 app:id/back_btn}
+                    android.widget.ImageButton{28ad3286 VFED..C. ... 120,0-240,120 #7f0c0053 app:id/home_btn}
+                    android.widget.TextView{30c78747 V.ED.... ... 255,0-888,120 #7f0c0031 app:id/action_bar_title}
+                  android.support.v7.widget.ActionMenuView{2cd01ad1 V.E..... ... 936,0-1080,168}
+                    android.support.v7.internal.view.menu.ActionMenuItemView{3f9ad037 VFED..CL ... 0,12-144,156 #7f0c0099 app:id/GPSItem}
+                android.support.v7.internal.widget.ActionBarContextView{29fc9f78 G.E..... ... 0,0-0,0 #7f0c0045 app:id/action_context_bar}
+        android.view.View{c627bc V.ED.... ... 0,0-1080,75 #102002f android:id/statusBarBackground}
+        android.view.View{36017a9a V.ED.... ... 0,1776-1080,1920 #1020030 android:id/navigationBarBackground}
+
+  ACTIVITY mac.jacwang.aurora20150610/.store_search_category 267b523c pid=16535
+    Local FragmentActivity 2feedcda State:
+      mCreated=truemResumed=false mStopped=true mReallyStopped=true
+      mLoadersStarted=false
+    FragmentManager misc state:
+      mActivity=mac.jacwang.aurora20150610.store_search_category@2feedcda
+      mContainer=android.support.v4.app.FragmentActivity$2@27f6a651
+      mCurState=2 mStateSaved=true mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{2a8461d4 I.E..... ... 0,0-1080,1920}
+        android.widget.LinearLayout{3729be72 V.E..... ... 0,0-1080,1776}
+          android.view.ViewStub{1e57aeb6 G.E..... ... 0,0-0,0 #102038c}
+          android.widget.FrameLayout{38afc740 V.E..... ... 0,75-1080,1776}
+            android.support.v7.internal.widget.ActionBarOverlayLayout{d0d8679 V.E..... ... 0,0-1080,1701 #7f0c0042 app:id/decor_content_parent}
+              android.support.v7.internal.widget.NativeActionModeAwareLayout{28514fbe V.E..... ... 0,168-1080,1701 #1020002 android:id/content}
+                android.widget.RelativeLayout{1bdf081f V.E..... ... 0,0-1080,1533}
+                  android.widget.RelativeLayout{396a176c V.E..... ... 0,1383-1080,1533 #7f0c0056 app:id/footer}
+                    android.widget.LinearLayout{ed71135 V.E..... ... 0,0-495,150}
+                      android.widget.ImageButton{1ccea9ca VFED..C. ... 30,15-165,150 #7f0c0057 app:id/little_btn_member_ship}
+                      android.widget.ImageButton{17f6073b VFED..C. ... 195,15-330,150 #7f0c0058 app:id/little_btn_favorite}
+                      android.widget.ImageButton{3c973e58 VFED..C. ... 360,15-495,150 #7f0c0059 app:id/little_btn_promote}
+                    android.widget.LinearLayout{31748bb1 V.E..... ... 585,0-1080,150}
+                      android.widget.ImageButton{d159896 VFED..C. ... 0,15-135,150 #7f0c005a app:id/little_btn_share}
+                      android.widget.ImageButton{b3dc17 VFED..C. ... 165,15-300,150 #7f0c005b app:id/little_btn_service}
+                      android.widget.ImageButton{2a6de804 VFED..C. ... 330,15-465,150 #7f0c005c app:id/little_btn_info}
+                  android.widget.RelativeLayout{49531ed V.E..... ... 0,0-1080,1383 #7f0c005d app:id/content}
+                    android.widget.LinearLayout{330aa822 V.E..... ... 0,0-1080,1383}
+                      android.support.v7.widget.RecyclerView{271022b3 VFED.V.. F.. 0,0-1080,1383 #7f0c0094 app:id/category_recycler}
+                        android.widget.LinearLayout{176fb1a5 V.E...C. ... 0,-10-1080,350}
+                          android.widget.ImageView{29e0370f V.ED.... ... 0,0-1080,360 #7f0c0036 app:id/image}
+                        android.widget.LinearLayout{3d035346 V.E...C. ... 0,305-1080,665}
+                          android.widget.ImageView{15f3352b V.ED.... ... 0,0-1080,360 #7f0c0036 app:id/image}
+                        android.widget.LinearLayout{11915dd2 V.E...C. ... 0,620-1080,980}
+                          android.widget.ImageView{24b3705d V.ED.... ... 0,0-1080,360 #7f0c0036 app:id/image}
+                        android.widget.LinearLayout{3dcfe5a0 V.E...C. ... 0,935-1080,1295}
+                          android.widget.ImageView{27e71ea3 V.ED.... ... 0,0-1080,360 #7f0c0036 app:id/image}
+                        android.widget.LinearLayout{3dded52a V.E...C. ... 0,1250-1080,1610}
+                          android.widget.ImageView{26c301ff V.ED.... ... 0,0-1080,360 #7f0c0036 app:id/image}
+              android.support.v7.internal.widget.ActionBarContainer{54fbf1b V.ED.... ... 0,0-1080,168 #7f0c0043 app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{3910c8b8 V.E..... ... 0,0-1080,168 #7f0c0044 app:id/action_bar}
+                  android.widget.LinearLayout{1f9db691 V.E..... ... 48,24-936,144}
+                    android.widget.ImageButton{8ed19f6 VFED..C. ... 0,0-120,120 #7f0c0052 app:id/back_btn}
+                    android.widget.ImageButton{152131f7 VFED..C. ... 120,0-240,120 #7f0c0053 app:id/home_btn}
+                    android.widget.TextView{3865b864 V.ED.... ... 255,0-888,120 #7f0c0031 app:id/action_bar_title}
+                  android.support.v7.widget.ActionMenuView{c2668ef V.E..... ... 936,0-1080,168}
+                    android.support.v7.internal.view.menu.ActionMenuItemView{382daffc VFED..CL ... 0,12-144,156 #7f0c0099 app:id/GPSItem}
+                android.support.v7.internal.widget.ActionBarContextView{395507b7 G.E..... ... 0,0-0,0 #7f0c0045 app:id/action_context_bar}
+        android.view.View{12b3db27 V.ED.... ... 0,0-1080,75 #102002f android:id/statusBarBackground}
+        android.view.View{2e246f7d V.ED.... ... 0,1776-1080,1920 #1020030 android:id/navigationBarBackground}
+
+  ACTIVITY mac.jacwang.aurora20150610/.menu 1ed3de93 pid=16535
+    Local FragmentActivity a1fae6a State:
+      mCreated=truemResumed=false mStopped=true mReallyStopped=true
+      mLoadersStarted=false
+    FragmentManager misc state:
+      mActivity=mac.jacwang.aurora20150610.menu@a1fae6a
+      mContainer=android.support.v4.app.FragmentActivity$2@183b24
+      mCurState=2 mStateSaved=true mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{19564713 I.E..... ... 0,0-1080,1920}
+        android.widget.LinearLayout{3f06ab49 V.E..... ... 0,0-1080,1776}
+          android.view.ViewStub{e2e568d G.E..... ... 0,0-0,0 #102038c}
+          android.widget.FrameLayout{219c3dbd V.E..... ... 0,75-1080,1776}
+            android.support.v7.internal.widget.ActionBarOverlayLayout{3f5d8114 V.E..... ... 0,0-1080,1701 #7f0c0042 app:id/decor_content_parent}
+              android.support.v7.internal.widget.NativeActionModeAwareLayout{314cef67 V.E..... ... 0,168-1080,1701 #1020002 android:id/content}
+                android.widget.RelativeLayout{1304a726 V.E..... ... 0,0-1080,1533}
+                  android.widget.RelativeLayout{27840fb2 V.E..... ... 0,1383-1080,1533 #7f0c0056 app:id/footer}
+                    android.widget.LinearLayout{25af1b03 V.E..... ... 0,0-495,150}
+                      android.widget.ImageButton{d1b9a80 VFED..C. ... 30,15-165,150 #7f0c0057 app:id/little_btn_member_ship}
+                      android.widget.ImageButton{3cd3f8b9 VFED..C. ... 195,15-330,150 #7f0c0058 app:id/little_btn_favorite}
+                      android.widget.ImageButton{141f74fe VFED..C. ... 360,15-495,150 #7f0c0059 app:id/little_btn_promote}
+                    android.widget.LinearLayout{217e645f V.E..... ... 585,0-1080,150}
+                      android.widget.ImageButton{5dfdeac VFED..C. ... 0,15-135,150 #7f0c005a app:id/little_btn_share}
+                      android.widget.ImageButton{1b326775 VFED..C. ... 165,15-300,150 #7f0c005b app:id/little_btn_service}
+                      android.widget.ImageButton{2979e30a VFED..C. ... 330,15-465,150 #7f0c005c app:id/little_btn_info}
+                  android.widget.RelativeLayout{21337a81 V.E..... ... 0,0-1080,1383 #7f0c005d app:id/content}
+                    android.widget.RelativeLayout{c746668 V.E..... ... 0,0-1080,1383}
+                      mac.jacwang.aurora20150610.Comm.SlideShowView{318d858b V.E..... ... 0,0-1080,690 #7f0c0075 app:id/slideshowView}
+                        android.widget.RelativeLayout{2e56ef5a V.E..... ... 0,0-1080,690}
+                          android.support.v4.view.ViewPager{3685b305 VFED.... ... 0,0-1080,690 #7f0c0061 app:id/viewPager}
+                            android.widget.ImageView{2c57e3f V.ED.... ... 3240,0-4320,690}
+                            android.widget.ImageView{3e48230c V.ED.... ... 4320,0-5400,690}
+                            android.widget.ImageView{2fcee77b V.ED.... ... 0,0-1080,690}
+                            android.widget.ImageView{29c23998 V.ED.... ... 1080,0-2160,690}
+                          android.widget.LinearLayout{18cf05f1 V.E..... ... 0,636-1080,690 #7f0c0062 app:id/slideShowDotContentner}
+                            android.view.View{2d5b25d6 V.ED.... ... 432,15-456,39}
+                            android.view.View{2eda8057 V.ED.... ... 480,15-504,39}
+                            android.view.View{206d5744 V.ED.... ... 528,15-552,39}
+                            android.view.View{21bd102d V.ED.... ... 576,15-600,39}
+                            android.view.View{283bc962 V.ED.... ... 624,15-648,39}
+                      android.widget.LinearLayout{3c9ccaf3 V.E..... ... 675,690-1035,1383 #7f0c0076 app:id/right_menu}
+                        android.widget.ImageButton{3f8aa3b0 VFED..C. ... 0,31-360,241 #7f0c0077 app:id/menu_member_ship}
+                        android.widget.ImageButton{16078229 VFED..C. ... 0,241-360,451 #7f0c0078 app:id/menu_promote}
+                        android.widget.ImageButton{3f9119ae VFED..C. ... 0,451-360,661 #7f0c0079 app:id/menu_store_login}
+                      android.widget.LinearLayout{112f234f V.E..... ... 45,690-675,1383 #7f0c007a app:id/left_menu}
+                        android.widget.ImageButton{bee4adc VFED..C. ... 75,106-555,586 #7f0c007b app:id/menu_store_search}
+              android.support.v7.internal.widget.ActionBarContainer{316d17e5 V.ED.... ... 0,0-1080,168 #7f0c0043 app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{28d922ba V.E..... ... 0,0-1080,168 #7f0c0044 app:id/action_bar}
+                  android.widget.LinearLayout{22e4a56b V.E..... ... 48,24-936,144}
+                    android.widget.ImageButton{218338c8 VFED..C. ... 0,0-120,120 #7f0c0052 app:id/back_btn}
+                    android.widget.ImageButton{32dc4d61 VFED..C. ... 120,0-240,120 #7f0c0053 app:id/home_btn}
+                    android.widget.TextView{166b086 V.ED.... ... 255,0-888,120 #7f0c0031 app:id/action_bar_title}
+                  android.support.v7.widget.ActionMenuView{b0e56e3 V.E..... ... 936,0-1080,168}
+                    android.support.v7.internal.view.menu.ActionMenuItemView{2a2658e0 VFED..CL ... 0,12-144,156 #7f0c0099 app:id/GPSItem}
+                android.support.v7.internal.widget.ActionBarContextView{26280042 G.E..... ... 0,0-0,0 #7f0c0045 app:id/action_context_bar}
+        android.view.View{357b2202 V.ED.... ... 0,0-1080,75 #102002f android:id/statusBarBackground}
+        android.view.View{1f163d50 V.ED.... ... 0,1776-1080,1920 #1020030 android:id/navigationBarBackground}

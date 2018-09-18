@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jac/Google 雲端硬碟/Android/Aurora20150610/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/jac/Google 雲端硬碟/Android/Aurora20150610/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-498a2e547329cb1b443739a74616f64edec774a8.jar" />
+    </item>
+    <item
+        jar="/Users/jac/Google 雲端硬碟/Android/Aurora20150610/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/jac/Google 雲端硬碟/Android/Aurora20150610/app/build/intermediates/pre-dexed/debug/classes-07495767e75bcd28110f03acc0f02d6c80665295.jar" />
+    </item>
+    <item
+        jar="/Users/jac/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/jac/Google 雲端硬碟/Android/Aurora20150610/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-3205f71fbc7572beeaef14fba5cb174ec509b3f9.jar" />
+    </item>
+    <item
+        jar="/Users/jac/Google 雲端硬碟/Android/Aurora20150610/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c9e0c6fc22b22b96d0db564cf073ab6f288bb758">
+        <dex dex="/Users/jac/Google 雲端硬碟/Android/Aurora20150610/app/build/intermediates/pre-dexed/debug/classes-5934e8a2f170255c64de67adb924ab6fa2770719.jar" />
+    </item>
+    <item
+        jar="/Users/jac/Google 雲端硬碟/Android/Aurora20150610/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/jac/Google 雲端硬碟/Android/Aurora20150610/app/build/intermediates/pre-dexed/debug/classes-d095b1e9a32cb36d8c9d9ce2b8b704ec5b5ba174.jar" />
+    </item>
+    <item
+        jar="/Users/jac/Google 雲端硬碟/Android/Aurora20150610/app/build/intermediates/exploded-aar/com.android.support/palette-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="060b30a619b8d3ba053e1d7dc08b3fdf0dd81530">
+        <dex dex="/Users/jac/Google 雲端硬碟/Android/Aurora20150610/app/build/intermediates/pre-dexed/debug/classes-826c9b3bcfe7ba89f3706ed89c46197e8504a809.jar" />
+    </item>
+    <item
+        jar="/Users/jac/Google 雲端硬碟/Android/Aurora20150610/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/jac/Google 雲端硬碟/Android/Aurora20150610/app/build/intermediates/pre-dexed/debug/classes-48e8f5948ab20f994d595933dc3261a2e9bb4ab8.jar" />
+    </item>
+    <item
+        jar="/Users/jac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/jac/Google 雲端硬碟/Android/Aurora20150610/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-67d6dee143fdf3075c9edc175a7d91d9db235edf.jar" />
+    </item>
+
+</items>
